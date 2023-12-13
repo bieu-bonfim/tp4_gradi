@@ -1,0 +1,21 @@
+Title: Invisibility
+
+----
+
+Level: 2
+
+----
+
+School: illusion
+
+----
+
+Components: verbal, somatic, material
+
+----
+
+Text: [{"content":{"level":"h1","text":"Invisibility"},"id":"f899074e-3ad4-4491-8d52-e83b0a62e4cd","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Casting Time: 1 action"},"id":"9a97ef91-91fc-40a0-ac45-d24ee649aaff","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Range: Touch"},"id":"17ce43be-8e39-48b4-af65-745450e46dcd","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Material Components: An eyelash encased in gum arabic"},"id":"8c95ed18-b306-4650-8105-10fbd6b9bf63","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Duration: Concentration, up to 1 hour"},"id":"176a8e1c-525d-4d37-8dd4-006e5b34e1fd","isHidden":false,"type":"heading"},{"content":{"text":"<p>A creature you touch becomes <a href=\"https://5e.tools/conditionsdiseases.html#invisible_phb\">invisible</a> until the spell ends. Anything the target is wearing or carrying is <a href=\"https://5e.tools/conditionsdiseases.html#invisible_phb\">invisible</a> as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.</p><p><strong><em>At Higher Levels.</em></strong></p><p>When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.</p>"},"id":"7400cac3-da55-475c-a1b2-9e6f66ac6492","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: pF0zDDpCeasWjVVS

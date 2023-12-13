@@ -1,0 +1,21 @@
+Title: Power Word Stun
+
+----
+
+Level: 8
+
+----
+
+School: enchantment
+
+----
+
+Components: verbal
+
+----
+
+Text: [{"content":{"level":"h1","text":"Power Word Stun"},"id":"16871aae-0552-42a5-b6c1-6f07b4a18d8f","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Casting Time: 1 action"},"id":"04ea59db-ef28-4c3d-aa22-b06ae2e04458","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Range: 60 feet"},"id":"fa82bdf4-399f-408a-8b40-954a7bec72c7","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Duration: Instantaneous"},"id":"89618647-beb2-40e9-ba37-dd71efc2d7d7","isHidden":false,"type":"heading"},{"content":{"text":"<p>You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is <a href=\"https://5e.tools/conditionsdiseases.html#stunned_phb\">stunned</a>. Otherwise, the spell has no effect.</p><p>The <a href=\"https://5e.tools/conditionsdiseases.html#stunned_phb\">stunned</a> target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.</p>"},"id":"95739980-8910-4be4-8939-f2410ccd6ad4","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: Ca4S5Px7w5gmbCqV

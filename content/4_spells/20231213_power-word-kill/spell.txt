@@ -1,0 +1,21 @@
+Title: Power Word Kill
+
+----
+
+Level: 9
+
+----
+
+School: enchantment
+
+----
+
+Components: verbal
+
+----
+
+Text: [{"content":{"level":"h1","text":"Power Word Kill"},"id":"519db6a9-8100-4e94-bde7-7c7f921c0d18","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Casting Time: 1 action"},"id":"3d73af5e-f256-4b96-b25f-57b00d1b5417","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Range: 60 feet"},"id":"6606f248-7ab5-41a8-b292-5ab7693f6d2b","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Duration: Instantaneous"},"id":"f173e0e4-4c17-443b-8d12-401cb4e8ff18","isHidden":false,"type":"heading"},{"content":{"text":"<p>You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.</p>"},"id":"8260e774-1a91-474a-b4e1-726b372c8416","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: kqqxPvf3sOQjZdCA

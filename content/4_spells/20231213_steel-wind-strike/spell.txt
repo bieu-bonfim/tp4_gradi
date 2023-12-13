@@ -1,0 +1,21 @@
+Title: Steel Wind Strike
+
+----
+
+Level: 5
+
+----
+
+School: conjuration
+
+----
+
+Components: somatic, material
+
+----
+
+Text: [{"content":{"level":"h1","text":"Steel Wind Strike"},"id":"5accfcf3-c7a1-4f72-a531-8e8fdc3b553c","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Casting Time: 1 action"},"id":"6f49d4a0-6438-48e8-9525-a57b8568ff38","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Range: 30 feet"},"id":"aeb4d0a7-540f-4e3d-8172-483890c317df","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Material Components: A melee weapon worth at least 1 sp"},"id":"16e0b560-5965-4315-88ce-b832e232c992","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Duration: Instantaneous"},"id":"ce1d6a0a-fe8a-4d2d-91a1-1c43f058a6fd","isHidden":false,"type":"heading"},{"content":{"text":"<p>You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes 6d10 force damage.</p><p>You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.</p>"},"id":"f0d03ca1-98fb-4258-b917-57a078c98847","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 4mTiFxazIwLgSq3a

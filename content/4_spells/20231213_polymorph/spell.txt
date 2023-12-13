@@ -1,0 +1,21 @@
+Title: Polymorph
+
+----
+
+Level: 4
+
+----
+
+School: transmutation
+
+----
+
+Components: verbal, somatic, material
+
+----
+
+Text: [{"content":{"level":"h1","text":"Polymorph"},"id":"b36785b1-3833-4cac-a7cf-b2f41dc105fb","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Casting Time: 1 action"},"id":"9900dbcf-0552-40aa-8635-ee0499ae2b85","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Range: 60 feet"},"id":"5fea854e-0911-4952-bca0-51e603af3379","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Material Components: A caterpillar cocoon"},"id":"72316f58-3b0c-4666-b322-03b277f15f77","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Duration: Concentration, up to 1 hour"},"id":"9798f211-5efe-447b-a0f8-a94ef83d1a3e","isHidden":false,"type":"heading"},{"content":{"text":"<p>This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points.</p><p>The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be <a href=\"https://5e.tools/bestiary.html#blankhash,flsttype:beast=1,flstmiscellaneous:swarm=2\">any beast</a> whose challenge rating is equal to or less than the target's (or the target's level, if it doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.</p><p>The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious.</p><p>The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech.</p><p>The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.</p>"},"id":"4304e72e-e608-466f-b878-018675cfeb63","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 2bGuMFIfE3xMvElp

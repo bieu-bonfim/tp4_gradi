@@ -1,0 +1,21 @@
+Title: Harm
+
+----
+
+Level: 6
+
+----
+
+School: necromancy
+
+----
+
+Components: verbal, somatic
+
+----
+
+Text: [{"content":{"level":"h1","text":"Harm"},"id":"b50396d7-0807-4e64-958f-eed7addaf7ff","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Casting Time: 1 action"},"id":"ff2a36c2-3ae9-449e-bb7d-a1acbb3605b4","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Range: 60 feet"},"id":"de69694f-23b0-4001-b742-a8bcddd0df53","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Duration: Instantaneous"},"id":"b574797c-5bb4-4bea-b78b-ff525117263a","isHidden":false,"type":"heading"},{"content":{"text":"<p>You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes.</p>"},"id":"03e8bc6f-1b98-4802-a9f3-74c71651e3dd","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: CajZPbuKenVj58dZ

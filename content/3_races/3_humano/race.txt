@@ -1,0 +1,13 @@
+Title: Humano
+
+----
+
+Cover: - file://fGGOoI9TYhnx72nb
+
+----
+
+Features: [{"content":{"level":"h1","text":"Human"},"id":"ee0e168d-a945-4e28-b57c-3074ee254923","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"<strong>Ability Scores:</strong> None"},"id":"eef6c82f-9b83-445f-9575-4c485a915e27","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"<strong>Size:</strong> Medium"},"id":"0ac6374f-ffff-40ac-892b-6e942e59784e","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"<strong>Speed:</strong> 30 ft."},"id":"af9b6c51-3755-4825-89de-058ef521d12e","isHidden":false,"type":"heading"},{"content":{"text":"<p>This race has multiple subraces, as listed below:</p>"},"id":"1e4e9573-f02a-417d-90e1-46686edd14ba","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><u><a href=\"https://5e.tools/races.html#human_phb\">Human</a></u></li><li><a href=\"https://5e.tools/races.html#human%20(keldon)_psd\">Human (Keldon)</a></li><li><a href=\"https://5e.tools/races.html#human%20(mark%20of%20handling)_erlw\">Human (Mark of Handling)</a></li><li><a href=\"https://5e.tools/races.html#human%20(mark%20of%20making)_erlw\">Human (Mark of Making)</a></li><li><a href=\"https://5e.tools/races.html#human%20(mark%20of%20passage)_erlw\">Human (Mark of Passage)</a></li><li><a href=\"https://5e.tools/races.html#human%20(mark%20of%20sentinel)_erlw\">Human (Mark of Sentinel)</a></li><li><a href=\"https://5e.tools/races.html#human%20(variant)_phb\">Human (Variant)</a></li><li><a href=\"https://5e.tools/races.html#human%20(variant%3b%20mark%20of%20finding)_erlw\">Human (Variant; Mark of Finding)</a></li></ul>"},"id":"4a11efe8-300d-45d0-ad12-22240360a92c","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"<strong>Traits</strong>"},"id":"91e1d94e-b14e-4894-ad92-da88a094c451","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong><em>Age.</em></strong></p><p>Humans reach adulthood in their late teens and live less than a century.</p><p><strong><em>Size.</em></strong></p><p>Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.</p><p><strong><em>Languages.</em></strong></p><p>You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.</p>"},"id":"05a7b49b-03be-4739-b252-c7160d0025d3","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: AFiw6naO81lWpFtE

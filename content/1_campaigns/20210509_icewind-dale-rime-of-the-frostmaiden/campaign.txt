@@ -1,0 +1,29 @@
+Title: Icewind Dale: Rime of the Frostmaiden
+
+----
+
+Text: [{"content":{"level":"h2","text":"Everlasting Rime"},"id":"2d82bddc-7f79-4651-9abb-4e85f317af01","isHidden":false,"type":"heading"},{"content":{"text":"<p>Donec accumsan risus eu sodales tempus. Aenean dignissim tempor sem, eu egestas magna lacinia vel. Aenean dignissim urna eget lorem faucibus finibus. Curabitur ullamcorper ligula et risus dapibus scelerisque. Phasellus mattis vel metus eu vulputate. Sed consectetur erat et luctus vulputate. Mauris finibus ultricies nisi non interdum. In hac habitasse platea dictumst. Praesent non nibh nec dolor semper vehicula eu pellentesque lorem. Nulla facilisi. Pellentesque ac massa eros. Curabitur vitae justo in nisl placerat pharetra ac interdum orci.</p><p>Phasellus mollis felis vehicula tellus sollicitudin laoreet. Nulla lobortis nulla a volutpat placerat. Quisque sit amet nisl in nunc tempor condimentum eget in augue. Vestibulum vel fermentum est, quis rhoncus diam. Vivamus scelerisque nisl a placerat malesuada. Nulla diam diam, luctus egestas tempus a, rhoncus eget justo. Donec porta justo vel nisi convallis elementum. Integer quis ultrices dolor. Quisque dolor turpis, pulvinar ac urna sit amet, porta mattis urna. Vestibulum imperdiet urna ut pharetra vestibulum.</p><p>Nam congue ipsum nec ante fringilla, nec pellentesque massa vestibulum. In nulla arcu, ornare nec felis ac, malesuada dignissim eros. Mauris venenatis eu nisi eget bibendum. Nullam dapibus massa nec ultricies placerat. Vivamus rutrum sem sed felis tempor, a vestibulum sem sollicitudin. Cras venenatis mi id dolor volutpat, ac cursus odio bibendum. Donec velit est, tincidunt eget justo tempus, tristique tempor sapien. Suspendisse potenti. Sed viverra turpis eget risus tincidunt pharetra. Integer molestie, velit sed pretium lobortis, neque mauris porta elit, at elementum erat lorem rutrum neque. Pellentesque finibus volutpat ante vel lacinia. Nam tempor ex nec venenatis vestibulum. Duis lorem lorem, tristique vitae consectetur imperdiet, posuere non leo. Maecenas vulputate, urna sit amet maximus fringilla, ligula odio sodales orci, nec accumsan tellus libero sit amet odio. Etiam at erat et enim facilisis dapibus.</p><p>Nunc sagittis purus fermentum, rutrum lacus ac, pharetra urna. Fusce et lobortis risus, vitae blandit urna. Aliquam laoreet fringilla sodales. Maecenas rhoncus est at nisl ultricies, quis aliquam lorem malesuada. Duis at dignissim massa. Curabitur venenatis mauris pellentesque, sagittis dolor scelerisque, volutpat ligula. Pellentesque nibh metus, accumsan eu quam efficitur, vehicula feugiat sem. Aliquam varius blandit urna, a blandit sem sagittis eu. Mauris volutpat tellus enim, ac molestie massa placerat in. Phasellus lobortis odio sit amet felis tempus, in consectetur erat pulvinar. Ut est odio, laoreet sed quam ac, placerat commodo erat. Phasellus aliquam velit vel urna maximus molestie ut et mauris. Integer molestie sapien ac gravida sollicitudin.</p>"},"id":"1927cbe8-3a03-447a-a17d-fbe2b9e3e9ed","isHidden":false,"type":"text"},{"content":{"images":["file://mQ4PPsB2uy1PdT98"],"caption":"A aurora boreal que cobre os céus toda noite, nada mais é do que a sentença de morte de todos que habitam a região do Vale dos Ventos Gélidos.","ratio":"16/9","crop":"false"},"id":"fcb25523-47a9-44a6-9db8-1f74bdcc3d4c","isHidden":false,"type":"gallery"},{"content":{"images":["file://ttdni7ivtFEnM3KJ"],"caption":"O gelo se apossou do navio e a loucura se apossou das mentes dos piratas. Boatos de um pirata canibal vagando pela geada ainda podem ser ouvidos.","ratio":"16/9","crop":"false"},"id":"4f149c54-356f-4105-a7ec-cd0e63ab342c","isHidden":false,"type":"gallery"},{"content":{"images":["file://AGKRKc8r39gFFy5j","file://mQ4PPsB2uy1PdT98","file://ttdni7ivtFEnM3KJ"],"caption":"","ratio":"","crop":"false"},"id":"b8979e15-5b79-4678-9b89-445fec0016c4","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: - file://AGKRKc8r39gFFy5j
+
+----
+
+Date: 2021-05-09 04:30:00
+
+----
+
+Author: - user://S4cX5A7f
+
+----
+
+Players: - user://S4cX5A7f
+
+----
+
+Tags: Icewind Dale, D&D, D&D 5e
+
+----
+
+Uuid: GcmfVBj8MhueYm0n

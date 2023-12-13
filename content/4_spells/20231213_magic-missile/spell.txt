@@ -1,0 +1,21 @@
+Title: Magic Missile
+
+----
+
+Level: 1
+
+----
+
+School: evocation
+
+----
+
+Components: verbal, somatic
+
+----
+
+Text: [{"content":{"level":"h1","text":"Magic Missile"},"id":"37e83081-000f-44e5-8885-1935e12baa58","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Casting Time: 1 action"},"id":"507f7f96-a09b-450f-b632-1cbe561714ad","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Range: 120 feet"},"id":"fefd70ef-9371-4f67-90fa-1b7b99b612cd","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Duration: Instantaneous"},"id":"a397e340-ac5d-43ac-8781-ec20a79afc23","isHidden":false,"type":"heading"},{"content":{"text":"<p>You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.</p><p><strong><em>At Higher Levels.</em></strong></p><p>When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.</p>"},"id":"bf815ca5-383b-4d2b-83c4-97cbffa00e15","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: WGP5jxO1IVqLm35K
