@@ -1,0 +1,32 @@
+Title: The Lost Mines of Phandelver
+
+----
+
+Text: [{"content":{"level":"h2","text":"Forte de Farron"},"id":"a7ad3a65-4500-4ca2-8794-41537f251409","isHidden":false,"type":"heading"},{"content":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa ultricies mi quis hendrerit. Viverra nam libero justo laoreet sit amet. Adipiscing elit ut aliquam purus sit amet luctus venenatis lectus. Mi proin sed libero enim sed faucibus turpis in. Urna cursus eget nunc scelerisque viverra. Senectus et netus et malesuada fames. In est ante in nibh mauris cursus mattis. Sed augue lacus viverra vitae congue eu consequat ac felis. Accumsan tortor posuere ac ut consequat semper viverra nam. Mauris nunc congue nisi vitae suscipit tellus mauris. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum.</p><p>Venenatis urna cursus eget nunc scelerisque. Dignissim sodales ut eu sem integer vitae justo eget magna. Quisque id diam vel quam elementum. Eget egestas purus viverra accumsan in nisl. Eu nisl nunc mi ipsum faucibus vitae. At in tellus integer feugiat scelerisque varius morbi. Dui faucibus in ornare quam viverra orci sagittis eu volutpat. Accumsan sit amet nulla facilisi. In pellentesque massa placerat duis ultricies. Venenatis lectus magna fringilla urna porttitor rhoncus. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Justo eget magna fermentum iaculis eu. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Egestas sed tempus urna et pharetra pharetra massa massa ultricies. Euismod elementum nisi quis eleifend quam. Dolor sed viverra ipsum nunc. Nunc congue nisi vitae suscipit tellus mauris. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Eget mauris pharetra et ultrices neque. Amet consectetur adipiscing elit pellentesque habitant morbi.</p><p>Duis at consectetur lorem donec massa sapien faucibus et. Nulla posuere sollicitudin aliquam ultrices sagittis orci a. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices gravida. Nunc consequat interdum varius sit amet mattis vulputate enim nulla. Sapien eget mi proin sed libero enim sed faucibus turpis. Vehicula ipsum a arcu cursus vitae congue mauris. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Ultricies leo integer malesuada nunc vel risus commodo viverra. Lobortis mattis aliquam faucibus purus. Molestie nunc non blandit massa. Id eu nisl nunc mi ipsum faucibus. In dictum non consectetur a erat nam. Tincidunt lobortis feugiat vivamus at augue eget arcu. Eget felis eget nunc lobortis mattis aliquam faucibus. Senectus et netus et malesuada fames. Elementum pulvinar etiam non quam lacus suspendisse. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra accumsan. Orci ac auctor augue mauris augue neque gravida in fermentum.</p>"},"id":"c7493d05-7620-4ef9-945b-06d65b75113d","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://EiupH8OsKy8cL66E"],"src":"","alt":"Forte de Farron","caption":"Forte de Farron, o último forte antes do pântano de Farron.","link":"","ratio":"16/9","crop":"true"},"id":"c4087a41-6ef0-4c62-add0-bb8f43f90cce","isHidden":false,"type":"image"},{"content":{"text":"me caguei inteiro","citation":"Patrick"},"id":"e66b5c8f-6cc4-4b3e-bbc0-6e90ef44f38b","isHidden":false,"type":"quote"},{"content":{"images":["file://WTFnUTWMYCxXgpTA","file://EiupH8OsKy8cL66E","file://ZJVjY3iGb86Hn2oR","file://SlVayvKVgOLSYWQw","file://Dkbmz3in0H2GQB9d"],"caption":"","ratio":"","crop":"true"},"id":"94907881-bc26-4239-b801-4aa8c44f4907","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: - file://EiupH8OsKy8cL66E
+
+----
+
+Date: 2023-12-10 01:35:00
+
+----
+
+Author: - user://pWjS4UN3
+
+----
+
+Players:
+
+- user://O8eTWBDX
+- user://DzAMMZOy
+
+----
+
+Tags: horror, caves
+
+----
+
+Uuid: LEwBEsheBEb2KY0f

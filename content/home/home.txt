@@ -1,0 +1,13 @@
+Title: Dungeon Manager
+
+----
+
+Headline: Welcome to your own D&D campaign lore manager.
+
+----
+
+Subheadline: A wonderful experience for Dungeon Masters and Players.
+
+----
+
+Uuid: wljMYhm0m3e9QOwC

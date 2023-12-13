@@ -1,0 +1,14 @@
+title: Player
+
+permissions:
+  languages:
+    *: false
+  access:
+    *: false
+    account: true
+    panel: true
+    site: true
+    system: true
+  users:
+    *: false
+

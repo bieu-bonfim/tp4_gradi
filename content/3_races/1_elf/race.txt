@@ -1,0 +1,13 @@
+Title: Elf
+
+----
+
+Cover: - file://6Tj72izuFaTOKkIp
+
+----
+
+Features: [{"content":{"text":"<p>Elf features</p>"},"id":"832b1fff-ddfa-44a4-8e15-b7bfaec857b3","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: AWXYyjhCBXXXg0UV

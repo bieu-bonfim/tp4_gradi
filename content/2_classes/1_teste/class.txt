@@ -1,0 +1,17 @@
+Title: Guerreiro
+
+----
+
+Cover: - file://LJoX3r0bQ0sTHqZZ
+
+----
+
+Features: [{"content":{"text":"<p>Teste</p>"},"id":"87482102-99ed-44a0-80a4-a932c9090a9f","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: xy1BdMXgkHeB8gBl
+
+----
+
+Tags: 
